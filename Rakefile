@@ -3,11 +3,10 @@ require "tmpdir"
 
 require "bundler/setup"
 require "jekyll"
-require "jekyll-assets"
 
 
 # Change your GitHub reponame eg. "kippt/jekyll-incorporated"
-GITHUB_REPONAME = "shupp097/shuppmakes.github.com"
+GITHUB_REPONAME = "shuppmakes/shuppmakes.github.com"
 
 
 namespace :site do
