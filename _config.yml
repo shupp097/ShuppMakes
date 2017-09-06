@@ -111,7 +111,7 @@ plugins: [jekyll-paginate]
 #
 assets:
   dirname: assets
-  baseurl: /assets/
+  baseurl: http://shuppmakes.github.io/shuppmakes/assets
   sources:
     - _assets/javascripts
     - _assets/stylesheets
